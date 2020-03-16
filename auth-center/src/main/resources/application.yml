@@ -1,0 +1,24 @@
+#server:
+ # port: 8081
+
+#spring:
+ # datasource:
+  #  driver-class-name: com.mysql.cj.jdbc.Driver
+   # url: jdbc:mysql://localhost:3306/codeprism
+    #username: root
+    #password: system
+    
+ # jpa:
+  #   show-sql: true
+   #  hibernate:
+    #  ddl-auto: create
+    
+shuaicj.security.jwt.secret: otherpeopledontknowit
+
+#spring.datasource.driver-class-name=com.mysql.cj.jdbc.Driver
+#spring.datasource.url=jdbc:mysql://localhost:3306/codeprism
+#spring.datasource.username= root
+#spring.datasource.password= system
+
+#spring.jpa.show-sql=true
+#spring.jpa.hibernate.ddl-auto=update
